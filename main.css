@@ -6,3 +6,9 @@ h1 {
   font-size: 40px;
   font-family: Arial, sans-serif;
 }
+
+header {
+  background-color: #003366;
+  color: white;
+  padding: 10px;
+}
